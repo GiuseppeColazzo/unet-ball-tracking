@@ -1,0 +1,13 @@
+# environment
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+
+# data, outputs and weights (large, and SoccerNet data must not be redistributed)
+data/
+runs/
+weights/
+*.pt
+*.pth
+*.zip
